@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\KartOyunuödevdeneme2\KartOyunuödevdeneme2\obj\Debug\KartOyunuödevdeneme2.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\KartOyunuödevdeneme2\KartOyunuödevdeneme2\obj\Debug\KartOyunuödevdeneme2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\KartOyunuödevdeneme2\KartOyunuödevdeneme2\bin\Debug\KartOyunuödevdeneme2.exe.config
+C:\Users\Lenovo\source\repos\KartOyunuödevdeneme2\KartOyunuödevdeneme2\bin\Debug\KartOyunuödevdeneme2.exe
+C:\Users\Lenovo\source\repos\KartOyunuödevdeneme2\KartOyunuödevdeneme2\bin\Debug\KartOyunuödevdeneme2.pdb
+C:\Users\Lenovo\source\repos\KartOyunuödevdeneme2\KartOyunuödevdeneme2\obj\Debug\KartOyunuödevdeneme2.exe
+C:\Users\Lenovo\source\repos\KartOyunuödevdeneme2\KartOyunuödevdeneme2\obj\Debug\KartOyunuödevdeneme2.pdb
